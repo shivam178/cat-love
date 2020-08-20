@@ -1,0 +1,24 @@
+body{
+	background: url(https://iso.500px.com/wp-content/uploads/2014/06/20481.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white; 
+	font-family: 'Lato', sans-serif;
+}
+#content{
+
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 10px 10px red;
+}
+html{
+	height: 100%;
+
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+hr{
+	width: 400px;
+}
